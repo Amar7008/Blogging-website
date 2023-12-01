@@ -1,1 +1,3 @@
 # Blogging-website
+This website contains 7 webpages...
+It is a blogging website which uses HTML CSS and JAVASCRIPT
